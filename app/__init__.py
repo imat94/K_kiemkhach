@@ -8,12 +8,12 @@ from .modules.tool_funct import ToolFunctiton
 import concurrent.futures
 
 
-reponse = requests.get('https://raw.githubusercontent.com/imat94/aimat/main/ok.json').json()
+reponse = requests.get('https://raw.githubusercontent.com/imat94/K_kiemkhach/main/khoaAPI_gem.json').json()
 client = gspread.service_account_from_dict(reponse)
 mainclient = client.open_by_url(
-	'https://docs.google.com/spreadsheets/d/1wx67vV8qPVgfxPkchs_3QnKmCbH16d_roeIQ4O-Qz2c/'
+	'https://docs.google.com/spreadsheets/d/1ps8MYPnMSBVT13lLVLes3xvOHk6AHUWtvIT7-i53F7o/'
 )
-list_tk = mainclient.worksheet('Test').get_all_values()
+list_tk = mainclient.worksheet('Mã').get_all_values()
 
 
 LIST_KU = []
@@ -359,7 +359,7 @@ class Login(QtWidgets.QDialog,templates.UiLogin):
 		username = self.username.text()
 		password = self.password.text()
 		for tk in list_tk:
-			if username == tk[0] and password ==tk[1]:
+			if username == tk[1] and password ==tk[2]:
 				self.label.setText('Login thành công')
 				self.done(1)
 			self.label.setText('Sai tên tài khoản hoặc mật khẩu')
