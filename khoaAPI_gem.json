@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "skillful-rush-335011",
+  "private_key_id": "433da848c0944c36b09819956742f9436d4da9e7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDp8EqHgDlwOD7X\n1Z4nCX68PVYTetpaG4Qe4BoCmxBFqPkGX4B8D9/OFIjwbdRpS3nlEPw3C4htlaTE\nUPgE0ptlh0vIQP9kwTJdwAnrxs3Zr2JM9FsNfumsTQOorxadDC2/X1kuMTZwtkbD\nxFDivVeUwKmntIzGOHDRonLibOWr5OiB36c40QOuewkFPBWCPEvAbN8Jy300ktyH\n5gWvTLv6np3CCbFwwKCzlCshLWk//m7SqiDWBcQY6Hc7qXw6fymNUEeMksFTlpNY\n//pVqx/5YUQgRJCziCXI3giv8VhcU1T9UBOQ0A1EXspB7Ut/4NAys1wCL61YCM9E\nsRtvpvf1AgMBAAECggEABLp6Fl5ZqtwNxx9WxkHrbILn3iM6tFBy9yXL8mQJRbZg\nrC4nfG2pgvKVNWWrtRVU6Vo4/HE9Yj7aH16y/w2O6jpisxfY1N13A8z8vL+EslYl\nbEB4vt9v4GJUUdp4hrDNk7a2m7F1p0l3FjNkXotGfY4qwuYQsPWVY2NZCgMUXe9+\n+pFhIiLyXV7BqScDw4cMQwKtbZEEtDp8STGh6WMa93XhM/Ij0IOCmOGAmFvz+al6\nXPufbmce93YMjcE80W3OQKXhoO5IYqyqDHad59jHR+YZbVeW4y+n++aCcONnn1La\niWzB0nkCAlc9dBYQYaf2oft4ccaZ5epNZmkvplF/0QKBgQD/QmCeQspju2r2RK4V\ny2Gz5rLuSQJpiqKumTk72L1/pfuwXhPsbXdOH8wzhcFTaTIcIssPv3sNXvfZ2HfB\nBG50oIqB+IL4svsV5hd7J9D6GWjDtRDX67Ip4AWRthaXje0sFKuHJkr6DXxVH9Pz\nELvj88noXlgJomE5nGqdZVHe0QKBgQDqnhNNgbyCiEEbTVkrJBdOs1PzUJ5uKtzw\nEIfCTpHfd4BBDo0AiSlbAU0FTpLCZZE6s5WqFgATchLbexA5uYjUiBj72kolCFbI\nOZWui04vSn0wHxf20kNuoGdhkrGipIs8BDtKcQbe/Iy1txQktGFPAuoGvVCOiPG0\nuxKK2j/35QKBgADeWfPP6F5kgd2qqCj80y1IiK1U5EQ1q44KiW5Rs3tetjeIamrw\niGpko049k0XUYs5DtAsurJ2ECDXejbHDcRjGfxIoJVHxUfdmHAhYP1bKhVe9IvyJ\nGccYswwm4XbMjdULkPXZxIGLUDP98rut/+Wrq7E1uPj3a3tFs/srIBcxAoGBANHR\nwM2GAwJxvFggWmhchIObmK53INjBeIkxH1hET+ybwJVt3+fkwplilnDyjglQMAth\nY62Ss0qwr/CdJCubo6T+eelylPB9fq7d4OESMD/WzBJnHFVeQXQD+7ClMjuUD/kC\nh8vRPSXakjRIoLkaoBO7NXQFhq+SBSduTezjtmWJAoGBANkSK2/WfdekCPDUNw0s\nEbBkeD9q7d2ZqrPwk1UbTeEOyp3nPxfYz4xJB6JIL5YbZHVnicsthaTIwyrK2SHA\nJ1MG7Zb53zThYJ4HNY+7Tqe9zWU8LqvZz6UxPi5IadFBdS3JXD7+ToE/jJs7+biz\nvX3cSKzUOCWzrVpDkWRApoEn\n-----END PRIVATE KEY-----\n",
+  "client_email": "gem9422@skillful-rush-335011.iam.gserviceaccount.com",
+  "client_id": "101321838459657635852",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gem9422%40skillful-rush-335011.iam.gserviceaccount.com"
+}

@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="ico">
+    <file>app/templates/icon/logo.ico</file>
+  </qresource>
+</RCC>
