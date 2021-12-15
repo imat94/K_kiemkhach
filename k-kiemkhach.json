@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "k-kiemkhach",
+  "private_key_id": "c0da8db0df1edb9649f4e4a0c3f6707d211f9521",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCu9qmplk5ng7zL\nHBgWdDx1JpdJnAbIEPWIlOKpgPnqnktB+UUpwu/7iYbhSISQbbmdWXOX0EqNON/8\nHQLveAGtwzFiJAPTb7pDKzoNSDn52hOWozR9k104xUtldbOi1ggLD4VoDN5enU1k\nInJYCn04Ag35268i2zMs9SMlURzIk5NqFiCCHZtUawx0QbjPpevZCeW1T8gQUPsP\nbQUlCuvM7BUymqdHXE+I5qHjFYaJORzVFMGz6udMUmf122dug/LycAehv6kJ6SFt\nYdFcxrykmTqx7OI+LEiXvOnUIdQjmpzJmScjVkpZCqw3YKRl2hHmGxxaB8bo5xnZ\nL8SFpQZ7AgMBAAECggEAHnrYGbQWmo/nntaZF6hOM/ZyGp+0yruxmoadafwPDaFf\n6PFc7CaKmh5eQfbZKTQERvYjXgoqQqnq00fWkBMu7692detiQz5Oi48HQPMZLn6g\nNPjflxTKA67TMKyti6uPoSWmDvdW8dKjfdNGajIBmHU7LBDqVL8tDiLyaXjU89f/\n84XJgvOy5mrREsJNB5QPLi6Pt4vJTwwKndDC0MjTWSqraZItIiiLs1jJJMebLjwL\ntbgkOPdGIhh+0ETJJRo4EJyrI+i13bormgq6SISmgpfXyYkjbhkSMdwboj5H5T2c\nIMQ1thXDp86COdhLahoOaqgrUQ9teg+1MNheQrMxcQKBgQDVdXQEK4sbP/IE4Tzy\nZIBlXDNJIMyvDGzrPgLwmmRMzAICY2lrbT3K95uXdigKNX/7oo5sVGPRVWE5xtWI\nxSvbHU6C4A4hYBjc/QAuY1axL1xh32UTUFRkahvaNu7K6YMyScdTYWK9Ys+o5IuF\nhwRrC1DYWBbOuRNsaKHmhWFuuQKBgQDR1TPVx59xCB/MdIPwX8a6QZp0LAiPlxaK\n93rLHhDVoB15yprZ8m6/2wfOdFruh4l1027yqn+BNEENVvd8z7OBt2HJoE82H+QD\nrW5XztYFx5Dg9A3aHNo9OGhdhmt4i0AVIKwrMxXuMkCeMHJjOncyGycNKBDMNHbX\ng8IFIIrk0wKBgQDUnlR8Xt8FupEYWT569q6Jx+fxvHEFH6xSOYd2H2Mut7p8pIb6\nEWsOg8qAeJnzaUzc2hNhRkHS3mekxDAoNrWzYKK2a/THO9AoNv36NsrAXLt5Zapp\nLYeSKbsqhbMffK9I5QJdRFC08fqEcXmj/FPjR/c0N7IoIWN+hU5Wrp7ZSQKBgQDH\nZsrugdgzqtvFCIiFOg742vTzJxEvmw2yG8IWGck3qQO5xF5pdSfnrDZ77DipaiWn\n0bgiZQHr/4M+MQHZGuvj/iewWmZL8fxVvk8YpJbgQSidjW9IcZi3Cs6q6d1hXTsV\nmMnj95UEmb6sVS+uulWhSQpQR13HIKg635vWEXnMPwKBgD+dEuQ1ZY58bWhWMCyS\nzim1m0EU/ufdyUt0TMfuLTfehgVrhOYXZ+0HdeQeCAnxqYGsLzuHXMKkzsGckF5w\nCOpHZcafImQimqt+Vb4Xu5LaG1iQ7IAEvD4OfQeNoaI6uH+I0tjorGsyL08XJqwm\nAqdj97Orw5wj7H5oXHE35naf\n-----END PRIVATE KEY-----\n",
+  "client_email": "k-kiemkhach@k-kiemkhach.iam.gserviceaccount.com",
+  "client_id": "112486795689491122591",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/k-kiemkhach%40k-kiemkhach.iam.gserviceaccount.com"
+}
